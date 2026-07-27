@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+backend/target/
+backend/.mvn/
+backend/bin/
+
+# Build outputs
+frontend/dist/
+frontend/android/app/build/
+frontend/android/build/
+frontend/android/.gradle/
+.gradle/
+
+# IDE / OS files
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db

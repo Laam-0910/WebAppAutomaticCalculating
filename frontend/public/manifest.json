@@ -1,0 +1,22 @@
+{
+  "short_name": "Sushi Shop",
+  "name": "Sushi Shop - Phần Mềm Tính Tiền Tự Động",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c4a6e",
+  "theme_color": "#0c4a6e",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Phần mềm tính tiền tự động Sushi Shop với thông báo âm thanh Chị Google và VietQR."
+}

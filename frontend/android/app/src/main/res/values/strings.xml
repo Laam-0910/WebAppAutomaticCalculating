@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sushi Shop</string>
+    <string name="title_activity_main">Sushi Shop</string>
+    <string name="package_name">com.sushishop.app</string>
+    <string name="custom_url_scheme">com.sushishop.app</string>
+</resources>
